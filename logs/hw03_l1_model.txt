@@ -1,0 +1,49 @@
+=== L1 model ===
+Train size: 15636
+Test size : 3910
+TF-IDF matrix shapes: train (15636, 16228) test (3910, 16228)
+
+1. Confusion matrix (rows = actual NEG, CORE; columns = predicted NEG, CORE):
+[[1985    0]
+ [   8 1917]]
+
+2. Classification report:
+              precision    recall  f1-score   support
+
+           0      0.996     1.000     0.998      1985
+           1      1.000     0.996     0.998      1925
+
+    accuracy                          0.998      3910
+   macro avg      0.998     0.998     0.998      3910
+weighted avg      0.998     0.998     0.998      3910
+
+3. ROC AUC: 0.9994
+
+4. Non-zero coefficients: 30 of 16228 (0.18%)
+
+Top 15 positive-weight words (most predictive of CORE = 1):
+  trade                 175.7876
+  merchants             148.1169
+  merchant              124.6914
+  marchants             90.4895
+  marchant              66.8758
+  factor                57.6473
+  staple                57.6217
+  adventurers           41.4754
+  chapman               36.2462
+  adventurer            30.9844
+  purser                26.7418
+  venturers             8.3523
+  ship                  2.4090
+  pounds                1.6335
+  have                  1.4560
+
+Top 15 negative-weight words (most predictive of NEG = 0); 6 words have a weight below zero:
+  god                  -2.7437
+  that                 -2.4841
+  it                   -0.9803
+  christ               -0.4684
+  not                  -0.3983
+  his                  -0.0692
+
+Saved test predictions to data/hw03_l1_test_predictions.json (false positives: 0, false negatives: 8)

@@ -1,0 +1,9 @@
+Loaded:
+  CORE: 9773
+  NEG : 524688
+  MAYBE: 469
+Training set size (CORE + NEG): 19546
+Train size: 15636
+Test size : 3910
+MAYBE size: 469
+Saved training, test, and MAYBE datasets.

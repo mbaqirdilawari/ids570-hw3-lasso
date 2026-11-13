@@ -1,0 +1,23 @@
+Processing 571 files...
+Total chunks labeled: 534930
+Saved labeled chunks to data/merchant_labeled_chunks.json
+
+Label distribution:
+  CORE (1): 9773
+  NEG  (0): 524688
+  MAYBE(2): 469
+
+CORE example (first 200 chars):
+toward the trade-way, you shall make a partition of tenne
+or twelue furlongs, well inclosed with Ditch and Quickset, hedged round about, for
+the feeding of your tyred, wearie, or sicke Cattell, which 
+
+MAYBE example (first 200 chars):
+I (...) therefore (...)
+a baker, panter, worker in pastrie, and a brewer when need shall be (...),
+
+that he should not be ignorant of any thing which might helpe to keepe, sustaine,
+and inrich his hou
+
+NEG example (first 200 chars):
+the court of king JAMES after that I have resolve and with myself determine illustrious and thrice noble to a preamble wherein be brief discourse the cause of this treatise divulge and set forth unto 

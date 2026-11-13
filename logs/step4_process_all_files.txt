@@ -1,0 +1,3 @@
+Found 571 text files.
+
+Total chunks kept (after filtering): 534930

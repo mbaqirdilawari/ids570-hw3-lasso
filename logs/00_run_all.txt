@@ -1,0 +1,21 @@
+Started: Fri Nov 13 14:52:40 EST 2026
+
+[notice] A new release of pip is available: 26.0.1 -> 26.3
+[notice] To update, run: /Users/mbaqir/.venvs/ids570_hw3/bin/python3 -m pip install --upgrade pip
+Python 3.13.13 | scikit-learn 1.9.1 | nltk 3.10.4 | gensim 4.4.0
+HTTP 200 123485280 bytes
+Text files in texts/:      571
+--- 14:52:54 running step1_load_texts.py
+--- 14:52:54 running step2_segment_and_chunk.py
+--- 14:52:56 running step3_tokenize_chunks.py
+--- 14:52:57 running step4_process_all_files.py
+--- 14:54:13 running step5_train_word2vec.py
+--- 14:59:39 running step5b_query_word2vec.py
+--- 14:59:40 running step6_define_tiers.py
+--- 14:59:40 running step7_label_chunks.py
+--- 15:00:59 running step9_prepare_datasets.py
+--- 15:01:00 running step10_tfidf_representation.py
+--- 15:01:01 running step11_train_classifier.py
+--- 15:01:02 running hw03_l2_baseline.py
+--- 15:01:03 running hw03_l1_model.py
+Finished: Fri Nov 13 15:01:04 EST 2026. You can close this window.

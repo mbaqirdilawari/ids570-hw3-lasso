@@ -1,0 +1,14 @@
+File: texts/A00169.txt
+Number of sentences: 2
+
+Number of chunks: 2
+
+Approx word counts per chunk:
+  min: 1094
+  median: 3210
+  max: 3210
+Chunks with 5-200 words: 0
+Share in range: 0.0
+
+--- Chunk 1 preview (first 400 chars) ---
+article to be inquire of in the diocese of chester in the ordinary visitation hold 1605. titul i. article concern religion prayer and sacrament first whether there be any abide in heretical opinion or resort to your parish that be know to have defend or maintain since the twenty day of march 1602. any heretical opinion contrary to the holy scripture of god and first four general counsel wherein th

@@ -1,0 +1,21 @@
+Found 571 .txt files.
+First 10 files:
+  texts/A00169.txt
+  texts/A00183.txt
+  texts/A00188.txt
+  texts/A00206.txt
+  texts/A00250.txt
+  texts/A00263.txt
+  texts/A00419.txt
+  texts/A00430.txt
+  texts/A00448.txt
+  texts/A00503.txt
+
+Reading file:
+texts/A00169.txt
+----------------------------------------
+Number of characters: 24025
+
+First 1,000 characters:
+
+article to be inquire of in the diocese of chester in the ordinary visitation hold 1605. titul i. article concern religion prayer and sacrament first whether there be any abide in heretical opinion or resort to your parish that be know to have defend or maintain since the twenty day of march 1602. any heretical opinion contrary to the holy scripture of god and first four general counsel wherein the same be declare heresy by the express word of the say canonical scripture and what be those opinion and who be the author publisher or maintainer thereof 2 item whether there be any person or person absence from church that wilful and obstinate refuse to repair to his parish church chapel or oratory upon sabbath day and holy day and there to abide orderly and sober to hear divine service and sermon or have not be present at the same or negligent in come to the same since the time before express declare their name and degree and their dwell place and for how long time they have so absent them

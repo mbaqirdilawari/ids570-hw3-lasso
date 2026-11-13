@@ -1,0 +1,60 @@
+/Users/mbaqir/.venvs/ids570_hw3/lib/python3.13/site-packages/sklearn/linear_model/_logistic.py:1435: FutureWarning: 'n_jobs' has no effect since 1.8 and will be removed in 1.10. You provided 'n_jobs=1', please leave it unspecified.
+  warnings.warn(msg, category=FutureWarning)
+=== L2 model ===
+Train size: 15636
+Test size : 3910
+TF-IDF matrix shapes: train (15636, 16228) test (3910, 16228)
+
+1. Confusion matrix (rows = actual NEG, CORE; columns = predicted NEG, CORE):
+[[1908   77]
+ [ 155 1770]]
+
+2. Classification report:
+              precision    recall  f1-score   support
+
+           0      0.925     0.961     0.943      1985
+           1      0.958     0.919     0.938      1925
+
+    accuracy                          0.941      3910
+   macro avg      0.942     0.940     0.941      3910
+weighted avg      0.941     0.941     0.941      3910
+
+3. ROC AUC: 0.9867
+
+4. Non-zero coefficients: 16228 of 16228 (100.00%)
+
+Top 15 positive-weight words (most predictive of CORE = 1):
+  trade                 27.5952
+  merchants             22.2899
+  merchant              17.6527
+  marchants             13.4361
+  marchant              8.8781
+  factor                5.4552
+  staple                4.9464
+  commodities           4.1597
+  buy                   3.1145
+  chapman               3.1003
+  exchange              2.9743
+  london                2.8592
+  goods                 2.8566
+  ships                 2.7392
+  ship                  2.6147
+
+Top 15 negative-weight words (most predictive of NEG = 0); 7976 words have a weight below zero:
+  god                  -3.1697
+  christ               -1.9114
+  rome                 -1.7499
+  enemies              -1.7298
+  power                -1.7204
+  pope                 -1.7132
+  doctrine             -1.6473
+  forces               -1.5688
+  gods                 -1.5628
+  spirit               -1.5280
+  faith                -1.4792
+  death                -1.4377
+  armie                -1.4068
+  king                 -1.3853
+  that                 -1.3289
+
+Saved test predictions to data/hw03_l2_test_predictions.json (false positives: 77, false negatives: 155)

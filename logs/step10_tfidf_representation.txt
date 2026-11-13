@@ -1,0 +1,5 @@
+Train size: 15636
+Test size : 3910
+TF-IDF matrix shapes:
+  Train: (15636, 16228)
+  Test : (3910, 16228)

@@ -1,0 +1,9 @@
+File: texts/A00169.txt
+Chunks (strings): 2
+Chunks (token lists): 2
+
+--- Token preview (first 60 tokens of first chunk) ---
+['article', 'to', 'be', 'inquire', 'of', 'in', 'the', 'diocese', 'of', 'chester', 'in', 'the', 'ordinary', 'visitation', 'hold', 'titul', 'article', 'concern', 'religion', 'prayer', 'and', 'sacrament', 'first', 'whether', 'there', 'be', 'any', 'abide', 'in', 'heretical', 'opinion', 'or', 'resort', 'to', 'your', 'parish', 'that', 'be', 'know', 'to', 'have', 'defend', 'or', 'maintain', 'since', 'the', 'twenty', 'day', 'of', 'march', 'any', 'heretical', 'opinion', 'contrary', 'to', 'the', 'holy', 'scripture', 'of', 'god']
+
+--- Token count of first chunk ---
+1071

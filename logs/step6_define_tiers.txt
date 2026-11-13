@@ -1,0 +1,9 @@
+Tier A size: 4
+Tier B size: 10
+Tier C size: 11
+
+Tier A: ['marchant', 'marchants', 'merchant', 'merchants']
+
+Tier B: ['adventurer', 'adventurers', 'chapman', 'factor', 'purser', 'staple', 'staplers', 'trade', 'venturer', 'venturers']
+
+Tier C: ['banker', 'brewer', 'clothier', 'clothyer', 'goldsmith', 'grazier', 'haberdasher', 'jeweller', 'tailor', 'tayler', 'vintner']
